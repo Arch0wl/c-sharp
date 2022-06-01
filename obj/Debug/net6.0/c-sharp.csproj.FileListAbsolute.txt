@@ -1,0 +1,15 @@
+/Users/Hanna/code/c-sharp/bin/Debug/net6.0/c-sharp
+/Users/Hanna/code/c-sharp/bin/Debug/net6.0/c-sharp.deps.json
+/Users/Hanna/code/c-sharp/bin/Debug/net6.0/c-sharp.runtimeconfig.json
+/Users/Hanna/code/c-sharp/bin/Debug/net6.0/c-sharp.dll
+/Users/Hanna/code/c-sharp/bin/Debug/net6.0/c-sharp.pdb
+/Users/Hanna/code/c-sharp/obj/Debug/net6.0/c-sharp.csproj.AssemblyReference.cache
+/Users/Hanna/code/c-sharp/obj/Debug/net6.0/c-sharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Hanna/code/c-sharp/obj/Debug/net6.0/c-sharp.AssemblyInfoInputs.cache
+/Users/Hanna/code/c-sharp/obj/Debug/net6.0/c-sharp.AssemblyInfo.cs
+/Users/Hanna/code/c-sharp/obj/Debug/net6.0/c-sharp.csproj.CoreCompileInputs.cache
+/Users/Hanna/code/c-sharp/obj/Debug/net6.0/c-sharp.dll
+/Users/Hanna/code/c-sharp/obj/Debug/net6.0/refint/c-sharp.dll
+/Users/Hanna/code/c-sharp/obj/Debug/net6.0/c-sharp.pdb
+/Users/Hanna/code/c-sharp/obj/Debug/net6.0/c-sharp.genruntimeconfig.cache
+/Users/Hanna/code/c-sharp/obj/Debug/net6.0/ref/c-sharp.dll
